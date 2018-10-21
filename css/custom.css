@@ -1,12 +1,12 @@
 body {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 #main {
-    max-width: 900px;
-    margin: 40px;
+  max-width: 900px;
+  margin: 40px;
 }
 
 table td {
-    padding: 5px;
+  padding: 5px;
 }
