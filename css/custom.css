@@ -7,6 +7,10 @@ body {
   margin: 40px;
 }
 
+#portrait {
+  float: right;
+}
+
 table td {
   padding: 5px;
 }
