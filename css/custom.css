@@ -9,6 +9,7 @@ body {
 
 #portrait {
   float: right;
+  margin: 25px;
 }
 
 table td {
