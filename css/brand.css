@@ -1,0 +1,13 @@
+/*! brand.css — martinharrigan.ie. Navy sampled from favicon-32x32.png. */
+
+:root {
+  --brand: #25557c;
+  --accent: #25557c;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --brand: #7ea9d0;
+    --accent: #9ec3e4;
+  }
+}
