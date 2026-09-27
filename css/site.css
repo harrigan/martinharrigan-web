@@ -53,6 +53,10 @@ html {
   html {
     scroll-behavior: smooth;
   }
+
+  @view-transition {
+    navigation: auto;
+  }
 }
 
 body {
